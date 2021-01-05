@@ -1,2 +1,2 @@
 ﻿# newProject
-## Aldo Trujano
+## Aldo Trujano Martinez
